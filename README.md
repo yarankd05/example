@@ -1,2 +1,2 @@
 # example
-ex demo trial
+print("hi)
